@@ -1,0 +1,60 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "frutas e verduras"
+    },
+    {
+      "id": 2,
+      "nome": "não perecíveis"
+    },
+    {
+      "id": 3,
+      "nome": "higiene e limpeza"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Manga Palmer",
+      "image": "https://img.cdndsgni.com/preview/10001674.jpg",
+      "preco": 10.00,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "nome": "Banana Prata",
+      "image": "https://img.cdndsgni.com/preview/11045178.jpg",
+      "preco": 5.00,
+      "categoriaId": 1
+    },
+    {
+      "id": 3,
+      "nome": "Sabão em pó",
+      "image": "https://img.cdndsgni.com/preview/12811443.jpg",
+      "preco": 15.00,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "nome": "Pó de café",
+      "image": "https://w7.pngwing.com/pngs/936/576/png-transparent-soil-coffee-grounds-soil-thumbnail.png",
+      "preco": 13.00,
+      "categoriaId": 2
+    },
+    {
+      "id": 5,
+      "nome": "Sabão de coco",
+      "image": "https://e7.pngegg.com/pngimages/389/787/png-clipart-soap-laundry-detergent-laundry-soap-simple-packaging-miscellaneous-simple.png",
+      "preco": 2.00,
+      "categoriaId": 3
+    },
+    {
+      "id": 6,
+      "nome": "Sabonete líquido",
+      "image": "https://img.freepik.com/psd-gratuitas/garrafa-de-shampoo-isolada-sobre-fundo-transparente_191095-25560.jpg",
+      "preco": 16.00,
+      "categoriaId": 3
+    }
+  ]
+}
